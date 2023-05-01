@@ -1,4 +1,4 @@
-#NESTED WHILE LOOP
+//NESTED WHILE LOOP
 public class WhileLoops {
     public static void main(String args[])
     {

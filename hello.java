@@ -19,7 +19,7 @@ class hello
         
         System.out.println( result );
 
-        float marks = 35.6
+        //float marks = 35.6;
 
         System.out.println( 4 + 5 );
 
